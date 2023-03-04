@@ -1,0 +1,28 @@
+Part 5.	Interraption:
+a	the reaction of the working app on incoming call:   answer a call
+b	the reaction of the working app on incoming call:   reject a call
+c	the reaction of the working app on incoming SMS
+d	verify that the user can resume back to the same point after answering the call or reading an SMS
+e	the reaction of the working app on battery charging
+f	the reaction of the working app on locking / unlocking the screen
+g	the reaction of the working app on alarms / timer notification
+h	the reaction of the working app on massage of low-level memory storage
+i	the reaction of the working app on connecting headphones/earphones /watch / Bluetooth speaker / other devices
+j	the reaction of the working app on PUSH-massages
+k	the reaction of the working app on pop-up windows
+l	the reaction of the working app on connection / disconnection Bluetooth
+m	the reaction of the working app on connection / disconnection GPS positioning
+n	testing timeouts / оповіщення часові / таймер / секундомір
+Part 6.	Connections / Reconnections:
+a	cellular communication  is on/off       (mobile connection)
+b	reconnections between cellular networks
+c	roaming   on/off
+d	Wi-Fi   on/off
+e	mobile data    on/off
+f	from Wi-Fi to  2G/3G/4G/5G
+e	from  2G/3G/4G/5G   to   Wi-Fi 
+g	reconnections between different Wi-Fi /  переключення між роутерами
+h	reconnections between different Hotspot
+i	reconnections from Hotspot to Wi-Fi and back (from Wi-Fi to Hotspot)
+j	 2G 🔁 3G/    2G 🔁 4G/       2G🔁5G/      3G🔁4G/    3G🔁5G/     4G🔁5G
+k	check the working app during a non-stable internet connection
