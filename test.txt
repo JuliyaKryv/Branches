@@ -1,2 +1,3 @@
 The line for making conflict issue
+The second line
 Just correct...
